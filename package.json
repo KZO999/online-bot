@@ -1,0 +1,14 @@
+{
+  "name": "papu",
+  "version": "1.0.0",
+  "description": "Hola",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
